@@ -1,0 +1,5 @@
+mcp
+httpx
+python-dotenv
+pytest
+mcp>=1.0,<2.0
